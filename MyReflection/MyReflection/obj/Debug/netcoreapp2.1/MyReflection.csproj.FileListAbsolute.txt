@@ -1,0 +1,11 @@
+C:\Users\every\Desktop\MyReflection\MyReflection\bin\Debug\netcoreapp2.1\MyReflection.deps.json
+C:\Users\every\Desktop\MyReflection\MyReflection\bin\Debug\netcoreapp2.1\MyReflection.runtimeconfig.json
+C:\Users\every\Desktop\MyReflection\MyReflection\bin\Debug\netcoreapp2.1\MyReflection.runtimeconfig.dev.json
+C:\Users\every\Desktop\MyReflection\MyReflection\bin\Debug\netcoreapp2.1\MyReflection.dll
+C:\Users\every\Desktop\MyReflection\MyReflection\bin\Debug\netcoreapp2.1\MyReflection.pdb
+C:\Users\every\Desktop\MyReflection\MyReflection\obj\Debug\netcoreapp2.1\MyReflection.csprojAssemblyReference.cache
+C:\Users\every\Desktop\MyReflection\MyReflection\obj\Debug\netcoreapp2.1\MyReflection.csproj.CoreCompileInputs.cache
+C:\Users\every\Desktop\MyReflection\MyReflection\obj\Debug\netcoreapp2.1\MyReflection.AssemblyInfoInputs.cache
+C:\Users\every\Desktop\MyReflection\MyReflection\obj\Debug\netcoreapp2.1\MyReflection.AssemblyInfo.cs
+C:\Users\every\Desktop\MyReflection\MyReflection\obj\Debug\netcoreapp2.1\MyReflection.dll
+C:\Users\every\Desktop\MyReflection\MyReflection\obj\Debug\netcoreapp2.1\MyReflection.pdb

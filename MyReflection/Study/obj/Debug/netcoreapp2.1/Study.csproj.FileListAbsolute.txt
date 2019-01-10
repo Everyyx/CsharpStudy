@@ -1,0 +1,8 @@
+C:\Users\every\Desktop\MyReflection\Study\bin\Debug\netcoreapp2.1\Study.deps.json
+C:\Users\every\Desktop\MyReflection\Study\bin\Debug\netcoreapp2.1\Study.dll
+C:\Users\every\Desktop\MyReflection\Study\bin\Debug\netcoreapp2.1\Study.pdb
+C:\Users\every\Desktop\MyReflection\Study\obj\Debug\netcoreapp2.1\Study.csproj.CoreCompileInputs.cache
+C:\Users\every\Desktop\MyReflection\Study\obj\Debug\netcoreapp2.1\Study.AssemblyInfoInputs.cache
+C:\Users\every\Desktop\MyReflection\Study\obj\Debug\netcoreapp2.1\Study.AssemblyInfo.cs
+C:\Users\every\Desktop\MyReflection\Study\obj\Debug\netcoreapp2.1\Study.dll
+C:\Users\every\Desktop\MyReflection\Study\obj\Debug\netcoreapp2.1\Study.pdb
