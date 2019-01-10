@@ -1,0 +1,11 @@
+C:\Users\every\Desktop\Mygeneric\bin\Debug\netcoreapp2.1\Mygeneric.deps.json
+C:\Users\every\Desktop\Mygeneric\bin\Debug\netcoreapp2.1\Mygeneric.runtimeconfig.json
+C:\Users\every\Desktop\Mygeneric\bin\Debug\netcoreapp2.1\Mygeneric.runtimeconfig.dev.json
+C:\Users\every\Desktop\Mygeneric\bin\Debug\netcoreapp2.1\Mygeneric.dll
+C:\Users\every\Desktop\Mygeneric\bin\Debug\netcoreapp2.1\Mygeneric.pdb
+C:\Users\every\Desktop\Mygeneric\obj\Debug\netcoreapp2.1\Mygeneric.csprojAssemblyReference.cache
+C:\Users\every\Desktop\Mygeneric\obj\Debug\netcoreapp2.1\Mygeneric.csproj.CoreCompileInputs.cache
+C:\Users\every\Desktop\Mygeneric\obj\Debug\netcoreapp2.1\Mygeneric.AssemblyInfoInputs.cache
+C:\Users\every\Desktop\Mygeneric\obj\Debug\netcoreapp2.1\Mygeneric.AssemblyInfo.cs
+C:\Users\every\Desktop\Mygeneric\obj\Debug\netcoreapp2.1\Mygeneric.dll
+C:\Users\every\Desktop\Mygeneric\obj\Debug\netcoreapp2.1\Mygeneric.pdb
