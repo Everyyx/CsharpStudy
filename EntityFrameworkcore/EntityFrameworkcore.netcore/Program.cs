@@ -1,7 +1,7 @@
 ﻿using EntityFrameworkcore.netcore.Models;
 using System;
 using System.Linq;
-
+using System.Threading;
 namespace EntityFrameworkcore.netcore
 {
     class Program
@@ -20,6 +20,17 @@ namespace EntityFrameworkcore.netcore
                     Console.WriteLine(p.FirstName+"            "+p.LastName);
                 }
             }
+
+            //Timer timer = new Timer();
+            System.Timers.Timer timer2 = new System.Timers.Timer(1000);
+            timer2.Elapsed += Timer2_Elapsed;
+            timer2.Start();
+            Console.ReadKey();
+        }
+
+        private static void Timer2_Elapsed(object sender, System.Timers.ElapsedEventArgs e)
+        {
+            Console.WriteLine(DateTime.Now.ToString());
         }
     }
 }
